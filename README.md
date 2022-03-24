@@ -12,6 +12,7 @@ Single Cell Li-ion/LiPo/Lifepo4 Battery charger with battery protection and 5v/1
 * Max DC input 8V
 * Direct battery output is also included for special applications
 * Recommended solar cells as input: 5V (0.5watts - 4watts), 4V (0.5watts - 4watts), 5.5V (0.5watts - 4watts), 6V (0.5watts - 4watts)
+* Dimensions: 60mm X 30mm
 
 ![3d view](pcb_mockup.jpg) 
 
